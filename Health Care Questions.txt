@@ -1,0 +1,8 @@
+1. What is the average billing amount by hospital?
+2. How does the admission type distribution look (urgent, emergency, elective)?
+3. What are the common medical conditions and their frequencies?
+4. What is the average patient age by medical condition?
+5. Which hospitals have the highest number of admissions?
+6. What is the average length of stay by medical condition?
+7. What are the most prescribed medications by condition?
+8. How does billing amount vary by insurance provider?
