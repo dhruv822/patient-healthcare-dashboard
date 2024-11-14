@@ -52,6 +52,9 @@ Click on different components to view details in context and see how metrics cha
 ### 3. Insight Interpretation:
 
 Use the visual trends and distribution charts to understand key metrics like admission trends, billing averages, and patient demographics.
+
+![Screenshot 2024-11-12 100423](https://github.com/user-attachments/assets/b0a996de-a6d2-41d9-81d4-559612b513b2)
+
 ## Files in This Repository
 **README.md**: Overview and instructions for the project. <br />
 **data/healthcare_dataset.csv**: Raw data in CSV format. <br />
@@ -63,3 +66,5 @@ To view or modify the dashboard, you will need:
 
 **Power BI Desktop** (for .pbix file) <br />
 **Python** (optional, for running data cleaning scripts) <br />
+
+
